@@ -1,4 +1,5 @@
 name = "Atul"
+print(type(name))
 print(name)
 
 x = 10
