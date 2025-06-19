@@ -17,3 +17,6 @@ print(message)
 star = "*"
 
 print((star*5 + "\n")*5)
+
+a = "Atul"
+print(len(a))
