@@ -20,3 +20,14 @@ print((star*5 + "\n")*5)
 
 a = "Atul"
 print(len(a))
+
+print(len(""))
+
+msg = "Atul Thakre"
+
+#print(len(msg) == 11)
+
+#print(msg[len(msg)])
+print(msg[len(msg) - 1])
+print(msg.upper())
+print(msg.lower())
