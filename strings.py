@@ -7,3 +7,13 @@ f_name = "Atul"
 l_name = "Thakre"
 
 print(f_name + " " + l_name)
+
+
+age = 24
+message = "My age is: " + str(age)
+print(message)
+
+
+star = "*"
+
+print((star*5 + "\n")*5)
